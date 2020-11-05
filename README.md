@@ -5,16 +5,16 @@ I have learned about responsive web designing and mobile first approach in this 
 Below are the screenshot of websites 
 
 ## 1. Documentation Page
-![Image](http://url/a.png)	
+![Image](https://github.com/jayeshchoudhary/Free-Code-Camp-Projects/blob/master/DocumentationPage.jpeg)	
 
 ## 2. Personal Portfolio
-![Image](http://url/a.png)	
+![Image](https://github.com/jayeshchoudhary/Free-Code-Camp-Projects/blob/master/personalPortfolio.JPG)	
 
 ## 3. Survey Form
-![Image](http://url/a.png)	
+![Image](https://github.com/jayeshchoudhary/Free-Code-Camp-Projects/blob/master/surveyForm.JPG)	
 
 ## 4. Tribute Page
-![Image](http://url/a.png)	
+![Image](https://github.com/jayeshchoudhary/Free-Code-Camp-Projects/blob/master/tributePage.JPG)	
 
 
 
