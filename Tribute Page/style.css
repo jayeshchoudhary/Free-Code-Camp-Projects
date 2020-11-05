@@ -1,0 +1,41 @@
+body {
+  text-align: center;
+  margin: 0;
+}
+
+#main {
+  margin: 30px 10px;
+  background-color: gainsboro;
+  padding: 15px 0;
+  border-radius: 5px;
+}
+
+#img-div {
+  background-color: white;
+  margin: 10px;
+  border-radius: 5px;
+}
+
+#image {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#img-caption {
+  margin: auto;
+  padding: 15px;
+}
+
+#tribute-info {
+  text-align: left;
+  max-width: 700px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+#tribute-info h2 {
+  text-align: center  ;
+}
